@@ -1,0 +1,9 @@
+embeddings/*
+!embeddings/.gitkeep
+
+data/*
+!data/.gitkeep
+temp
+.env
+.vscode
+__pycache__
